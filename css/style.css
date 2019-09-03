@@ -33,14 +33,22 @@
 
 .smallbox1{
 
-	background-color: orange;
-	padding: 5px;
+	background-color: white;
+
 	float: left;
 	min-height: 200px;
-	width: 23%;
-	border: 13px solid white;
+	width: 25%;
+	
 }
+.smallbox2{
 
+	background-color: green;
+	
+	float: left;
+	min-height: 200px;
+	width: 25%;
+	
+}
 .wrapper{
 
 	overflow: hidden;
@@ -48,11 +56,11 @@
 
 .box1{
 	background-color: black;
-	padding: 10px;
+	
 	float: left;
 	min-height: 800px;
-	width: 32%;
-	border: 1px solid white;
+	width: 33%;
+	border: 2px solid white;
 	float: left;
 }
 .footer{
