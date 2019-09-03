@@ -1,0 +1,62 @@
+.logo{
+	background-color: red;
+	min-height: 100px;
+
+}
+
+
+.row1{
+	
+	
+	overflow: hidden;
+	
+	
+}
+.row2{
+	
+
+	
+	overflow: hidden;
+}
+.row3{
+	
+	
+
+	overflow: hidden;
+}
+.row4{
+	
+
+	
+	overflow: hidden;
+}
+
+.smallbox1{
+
+	background-color: orange;
+	padding: 5px;
+	float: left;
+	min-height: 200px;
+	width: 23%;
+	border: 13px solid white;
+}
+
+.wrapper{
+
+	overflow: hidden;
+}
+
+.box1{
+	background-color: black;
+	padding: 10px;
+	float: left;
+	min-height: 800px;
+	width: 32%;
+	border: 1px solid white;
+	float: left;
+}
+.footer{
+	background-color: purple;
+	min-height: 80px;
+	clear:both;
+}
